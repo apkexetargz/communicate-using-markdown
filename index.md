@@ -10,3 +10,8 @@
 ```
 $ sudo pacman -Syu
 ```
+- [x] Start the github skills course
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Complete the github skills course
